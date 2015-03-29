@@ -1,0 +1,2 @@
+C:\Users\tr1b2669\Documents\Visual Studio 2012\Projects\BPC\Producer\bin\Debug\Producer.exe.config
+C:\Users\tr1b2669\Documents\Visual Studio 2012\Projects\BPC\Producer.exe.config
