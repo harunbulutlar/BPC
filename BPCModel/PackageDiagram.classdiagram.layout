@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="PackageDiagram">
+  <logicalClassDesignerModelMoniker Id="abe1a851-a50a-4823-b89d-cf67ef3ef079" />
+  <nestedChildShapes>
+    <packageShape Id="62c5f1b9-576b-489e-ab62-c16aba2eaad0" absoluteBounds="0.5, 1.75, 3.125, 1" customColor="255, 249, 230" hideQualifiedName="false">
+      <packageMoniker Id="ae061b79-c93f-4fa6-9792-b4cf33d6f595" LastKnownName="Consumer" />
+    </packageShape>
+    <packageShape Id="6bb08d24-c0f9-43e8-aeca-9ab6cd8992d7" absoluteBounds="4.125, 1.875, 2.625, 1" customColor="255, 249, 230" hideQualifiedName="false">
+      <packageMoniker Id="25b1b4b8-97c7-4982-b7e2-9193f4b2ed70" LastKnownName="Producer" />
+    </packageShape>
+    <packageShape Id="0fae9df0-21f1-414e-865c-86f9bdac2ad0" absoluteBounds="4.125, 3.125, 3.125, 1.375" customColor="255, 249, 230" hideQualifiedName="false">
+      <packageMoniker Id="0f733076-eba7-4469-97e6-2a82ae4eece1" LastKnownName="ProducerConsumerManager" />
+    </packageShape>
+    <packageShape Id="0dd738cd-3a09-407c-a7cf-90b6e8075abe" absoluteBounds="0.5, 3.5, 2.625, 1" customColor="255, 249, 230" hideQualifiedName="false">
+      <packageMoniker Id="d78f4cf8-071c-403b-bd5a-548f006a3259" LastKnownName="Utility" />
+    </packageShape>
+  </nestedChildShapes>
+</logicalClassDesignerDiagram>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="abe1a851-a50a-4823-b89d-cf67ef3ef079" name="PackageDiagram" linkedPackageId="096b83fe-51ca-43d6-9dde-3639a5d7f6ed" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="cafa3fe0-1d53-4347-91c5-2e20fb2c0d4d">
+      <profileInstance Id="899ff943-76e6-4e8d-9d96-a2f9f73c17a3" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="a7b62186-f029-4a54-a3a3-0808458ad0ec">
+      <profileInstance Id="0a6b8147-0e04-4bc8-8831-8c02cacbcfc5" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="d8b634d7-55a1-4b37-af90-1ce39a0f98af">
+      <profileInstance Id="c93e9203-d615-488c-bfde-ed09b59c50e5" name="CSharpProfile">
+        <elementDefinition Id="ea0a9731-fa45-408a-9e92-b93557d9fcd6" />
+      </profileInstance>
+      <elementDefinition Id="6127c105-55e4-4967-9a8a-37e0b4b85a68" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="ae061b79-c93f-4fa6-9792-b4cf33d6f595" name="Consumer" visibility="Private">
+        <referencesInternal>
+          <reference Id="145e2b2d-aff9-4206-827f-7f509ebec71a" handle="viewcode://./CodeSchema_Namespace?Namespace%3DConsumer" tag="ViewCode">
+            <elementDefinition Id="f6a778e0-f369-482d-8c0d-61ad059dae81" />
+          </reference>
+        </referencesInternal>
+        <elementDefinition Id="c1b62de5-05e9-4bcd-b196-c19439e373e7" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="25b1b4b8-97c7-4982-b7e2-9193f4b2ed70" name="Producer" visibility="Private">
+        <referencesInternal>
+          <reference Id="a003a368-503a-47a9-b6dc-6e175bd55e52" handle="viewcode://./CodeSchema_Namespace?Namespace%3DProducer" tag="ViewCode">
+            <elementDefinition Id="0dd08763-2b47-44c6-ab9e-4f58bcfa1eb7" />
+          </reference>
+        </referencesInternal>
+        <elementDefinition Id="de4f5ed4-a950-46a1-9d65-d1ba68948da2" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="0f733076-eba7-4469-97e6-2a82ae4eece1" name="ProducerConsumerManager" visibility="Private">
+        <referencesInternal>
+          <reference Id="9f942d95-dae1-415f-8337-5a27d3824181" handle="viewcode://./CodeSchema_Namespace?Namespace%3DProducerConsumerManager" tag="ViewCode">
+            <elementDefinition Id="af1000a0-c007-4020-8153-f9434f0e0331" />
+          </reference>
+        </referencesInternal>
+        <elementDefinition Id="5b7b7441-b32c-4f53-8e28-6351671fc922" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="d78f4cf8-071c-403b-bd5a-548f006a3259" name="Utility">
+        <description>Shared library that contains encryption, helper and shared memory classes</description>
+        <referencesInternal>
+          <reference Id="6bb44b1e-0010-49f0-9800-c670d5e26810" handle="viewcode://./CodeSchema_Namespace?Namespace%3DUtility" tag="ViewCode">
+            <elementDefinition Id="67a1ccfb-050d-4ae7-a648-847b84b4ede2" />
+          </reference>
+        </referencesInternal>
+        <elementDefinition Id="685730ed-7aad-4771-931f-261d5a65236c" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="096b83fe-51ca-43d6-9dde-3639a5d7f6ed" name="BPCModel">
+    <elementDefinition Id="f6082c78-22fd-46bc-90b3-33903f1005bb" />
+  </package>
+</logicalClassDesignerModel>

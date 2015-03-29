@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-03-29T17:22:53" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '0664d354-3b0f-48cb-a804-cc608dd5dbc2' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '0b31ecc0-0750-45be-aecd-0250bce37d9f' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '37ec669c-a286-4eaf-9197-5709f2be8b03' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '71ad7ad8-cc30-41c8-828e-cb648e1998fe' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '83a727af-10f3-4c16-8679-b4490e35ee81' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'acb6f054-49c6-444d-91a5-b9b08fe87016' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'b114c12f-f7d5-4dbf-a8f2-47cdfa6ed5db' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::ByteArrayToString' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::ByteArrayToString::ba' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::Consumer' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::ConsumerAccessor' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::ConsumerConfig' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::ConsumerLogger' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::ReadSharedMemory' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::ReadSharedMemory::accessor' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::ReadSharedMemory::logger' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Consumer::Start' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Program' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Program::Main' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Consumer::Program::Program' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer::Producer' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer::ProducerAccessor' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer::ProducerConfig' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer::ProducerLogger' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer::Start' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer::WriteToSharedMemory' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer::WriteToSharedMemory::accessor' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Producer::WriteToSharedMemory::logger' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Program' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Program::Main' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Producer::Program::Program' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::AbstractProcessHost' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::AbstractProcessHost::AbstractProcessHost' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::AbstractProcessHost::Close' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::AbstractProcessHost::Name' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::AbstractProcessHost::ProcessHost' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::AbstractProcessHost::ProcessLogger' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::AbstractProcessHost::Start' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::ConsumerHost' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::ConsumerHost::ConsumerHost' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::ConsumerHost::Name' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Manager' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Manager::BPCConfiguration' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Manager::BPCLogger' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Manager::Manager' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Manager::Processes' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Manager::StartAndWait' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::ProducerHost' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::ProducerHost::Name' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::ProducerHost::ProducerHost' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Program' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Program::Main' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::ProducerConsumerManager::Program::Program' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Byte' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Generic::Dictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Generic::Dictionary&lt;T1‎, T2‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Generic::Dictionary&lt;T2‎, T1‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Generic::Dictionary&lt;T3‎, T4‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Generic::List' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Generic::List&lt;AbstractProcessHost‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Specialized' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Collections::Specialized::OrderedDictionary' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Diagnostics' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::Diagnostics::Process' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::IO' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::IO::MemoryMappedFiles' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::IO::MemoryMappedFiles::MemoryMappedFile' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::System::IO::MemoryMappedFiles::MemoryMappedViewAccessor' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility' -  (Package)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Configuration' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Configuration::Configuration' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Configuration::ConsumerConfiguration' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Configuration::CreateConfiguration' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Configuration::ProducerConfiguration' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::ConfigurationParameters' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::ConfigurationParameters::AliveTime' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::ConfigurationParameters::ConfigurationParameters' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::ConfigurationParameters::MaximumDelay' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::ConfigurationParameters::MinimumDelay' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::ConfigurationParameters::NumberOfProcesses' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::ConfigurationParameters::RandomDelay' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::EncryptionFactory' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::EncryptionFactory::EncryptionFactory' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::EncryptionFactory::GetEncryption' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::EncryptionFactory::GetEncryption::typeIdentifier' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::EncryptionFactory::GetRandomTrimmedEncryption' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::EncryptionFactory::typesTrimmedForward' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::EncryptionFactory::typesTrimmedReverse' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption::Decrypt' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption::Decrypt::cipher' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption::Encrypt' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption::Encrypt::data' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption::GenericEncryption' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption::GetSymmetricAlgorithm' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption::Inputkey' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::GenericEncryption::Salt' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Helper' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Helper::ByteArrayToString' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Helper::ByteArrayToString::ba' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Helper::Helper' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::IGenericEncryption' -  (Interface)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::IGenericEncryption::Decrypt' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::IGenericEncryption::Decrypt::cipher' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::IGenericEncryption::Encrypt' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::IGenericEncryption::Encrypt::data' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Indexer' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Indexer::_dictionary' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Indexer::Indexer' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Indexer::Indexer::dictionary' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Indexer::this' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Indexer::this::index' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Indexer&lt;T1‎, T2‎&gt;‎.Indexer‎&lt;T1‎, T2‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Indexer&lt;T1‎, T2‎&gt;‎.Indexer‎&lt;T2‎, T1‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::ConsoleLogging' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::FileLogging' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::FileName' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::Log' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::Log::message' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::Logger' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::Logger::consoleLogging' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::Logger::fileLogging' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::LogHeader' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::LogToFile' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::LogToFile::message' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::MaxFileSize' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::Name' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Logger::ProcessId' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map::_forward' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map::_reverse' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map::Add' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map::Add::t1' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map::Add::t2' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map::Forward' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map::Map' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::Map::Reverse' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::c_TransactionSize' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::CurrentConfiguration' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::CurrentLogger' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::GetTransaction' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::Method' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::SharedMemory' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::SharedMemoryAccessor' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::SharedMemoryAccessor::configuration' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::SharedMemoryAccessor::logger' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::SharedMemoryAccessor::method' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::SharedMemoryView' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::Start' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::TransactionCount' -  (Property)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::WriteTransaction' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryAccessor::WriteTransaction::data' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Medium" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryMethod' -  (Class)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryMethod::Invoke' -  (Operation)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryMethod::Invoke::logger' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'BPCModel::Utility::SharedMemoryMethod::Invoke::mmf' -  (Parameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'e4edfcc5-3382-4c5b-ba92-750be0bf6d12' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Consumer::Consumer to BPCModel::Utility::ConfigurationParameters (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Consumer::Consumer to BPCModel::Utility::SharedMemoryAccessor (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Consumer::Consumer to BPCModel::Utility::Logger (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Producer::Producer to BPCModel::Utility::ConfigurationParameters (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Producer::Producer to BPCModel::Utility::SharedMemoryAccessor (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Producer::Producer to BPCModel::Utility::Logger (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::ProducerConsumerManager::AbstractProcessHost to BPCModel::Utility::Logger (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::ProducerConsumerManager::AbstractProcessHost to BPCModel::System::Diagnostics::Process (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::ProducerConsumerManager::ConsumerHost to BPCModel::ProducerConsumerManager::AbstractProcessHost (Generalization)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::ProducerConsumerManager::Manager to BPCModel::System::Collections::Generic::List&lt;AbstractProcessHost‎&gt; (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::ProducerConsumerManager::Manager to BPCModel::Utility::Configuration (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::ProducerConsumerManager::Manager to BPCModel::Utility::Logger (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::ProducerConsumerManager::ProducerHost to BPCModel::ProducerConsumerManager::AbstractProcessHost (Generalization)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::GenericEncryption to BPCModel::Utility::IGenericEncryption (InterfaceRealization)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::Map to BPCModel::Utility::Indexer&lt;T1‎, T2‎&gt;‎.Indexer‎&lt;T1‎, T2‎&gt; (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::Map to BPCModel::Utility::Indexer&lt;T1‎, T2‎&gt;‎.Indexer‎&lt;T2‎, T1‎&gt; (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::Configuration to BPCModel::Utility::ConfigurationParameters (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::Configuration to BPCModel::Utility::ConfigurationParameters (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::SharedMemoryAccessor to BPCModel::Utility::ConfigurationParameters (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::SharedMemoryAccessor to BPCModel::Utility::SharedMemoryMethod (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::SharedMemoryAccessor to BPCModel::Utility::Logger (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::SharedMemoryAccessor to BPCModel::System::IO::MemoryMappedFiles::MemoryMappedFile (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: BPCModel::Utility::SharedMemoryAccessor to BPCModel::System::IO::MemoryMappedFiles::MemoryMappedViewAccessor (Association)" />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="High" Text="(20) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="High" Text="(13) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-03-29T17:22:57" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="e0db609a-f8d3-49f4-ac2c-bb48d2ff8149" name="Consumer" linkedPackageId="ab9d173b-b5af-45ce-ab06-d374e266976a" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="1170efec-c6e6-48f8-aa19-a2989f8705d6">
+      <profileInstance Id="06b1020a-1506-4210-9d0b-a269a9e74691" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="330a8581-e8ac-4df9-80e5-0187cb2c1abc">
+      <profileInstance Id="4232b114-ca1b-43a0-9ef2-615ffd572f73" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="d985ba30-9a60-4e80-be2a-d395dfc76db9">
+      <profileInstance Id="566ba618-bec3-4a8a-8f5d-b9856cb68813" name="CSharpProfile">
+        <elementDefinition Id="ea0a9731-fa45-408a-9e92-b93557d9fcd6" />
+      </profileInstance>
+      <elementDefinition Id="6127c105-55e4-4967-9a8a-37e0b4b85a68" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <package Id="ab9d173b-b5af-45ce-ab06-d374e266976a" name="BPCModel">
+    <elementDefinition Id="f6082c78-22fd-46bc-90b3-33903f1005bb" />
+  </package>
+</logicalClassDesignerModel>
